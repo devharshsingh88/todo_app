@@ -2,3 +2,6 @@ Clean the code
 My newest todo is added
 Last todo
 And Lastly
+I am Harsh Singh
+Clean the bag
+My new Python Project
